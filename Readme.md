@@ -4,12 +4,11 @@
 + An Aphasia memory exercise using playing card suits
 + Adds GUI support witih tkinter
 
-Here is the card_display() function that resets the answer and displays a
-new random card suit on the screen.
-
-+ Choose a new random card suit - card_text eg. "Harts"
-+ Next we compare the card_text to the card_suit and display the appropiate ASCII character on screen eg. "♥"
-+ We also set the color of the card_suit eg. "♥" to the appropate color eg. red in this case.
+Lets look at the card_display() function and see what it does:
++ Clear the answer text so it's hidden from the user - the name of the suit is a secret for now eg. Harts
++ Set the answer text to a new random card suit. eg Harts
++ Compare the answer text to the list of card suits. eg. "Harts" is a match to "♥"
++ Once we know it's harts we set the card suit and choose the appropiate color in this case it's red.
 
 ```
 def card_display():
