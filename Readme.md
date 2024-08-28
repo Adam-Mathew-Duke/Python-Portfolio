@@ -3,7 +3,8 @@
 ### Card Suits - Volume 2
 + An Aphasia memory exercise using playing card suits
 + Adds GUI support witih tkinter
-+ Example function that displays a new random card suit on the screen
+
+Function to display a new card (ASCII Symbol) on the screen:
 ```
 def card_display():
 
@@ -23,5 +24,7 @@ def card_display():
 
 # end of code
 ```
+
+Image from the app showing the card suit and the solution:
 <img align="center" width="413" alt="image of card suites program" src="https://github.com/user-attachments/assets/e5b657f0-ec74-497d-9361-48ff5de3212e">
 
