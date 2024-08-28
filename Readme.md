@@ -1,4 +1,4 @@
-## Python Portfolio
+<img width="388" alt="image" src="https://github.com/user-attachments/assets/0207462c-92d7-4ff6-adb2-d0f61bbcd1d7">## Python Portfolio
 
 ### Card Suits - Volume 2 ([View Code](https://github.com/Adam-Mathew-Duke/Python-portfolio/blob/main/Card%20Suits%20-%20Version%202))
 + An Aphasia memory exercise using playing card suits
@@ -34,6 +34,9 @@ Image from the app showing the card suit and the solution:
 + Gets card information using scrython
 + Gets card price in USD using sf_price_fetcher
 + A simple to use terminal based MTG card price lookup tool
-+ Plans: I am excited and looking forward to refining this program further in the future!
++ Plans: Still a work in progress I'm exciting to keep improving and refining it!
+
+<img width="388" alt="image" src="https://github.com/user-attachments/assets/ecb2ac89-d556-447e-ac21-e6894230e4a6">
+
 
 
