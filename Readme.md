@@ -3,7 +3,8 @@
 ### Card Suits - Volume 2 ([View Code](https://github.com/Adam-Mathew-Duke/Python-portfolio/blob/main/Card%20Suits%20-%20Version%202))
 + An Aphasia memory exercise using playing card suits
 + Adds GUI support witih tkinter
-+ Program goals: aid in memory improvemnt, simple to use
++ GOAL: aid in memory improvemnt, simple to use
++ PLANS: add better choice validation and feedback for the user
 
 Function to display a new card (ASCII Symbol) on the screen:
 ```
@@ -30,11 +31,11 @@ Image from the app showing the card suit and the solution:
 
 <img align="center" width="413" alt="image of card suites program" src="https://github.com/user-attachments/assets/e5b657f0-ec74-497d-9361-48ff5de3212e">
 
-### MTG Card Price ([View Code](https://github.com/Adam-Mathew-Duke/Python-portfolio/blob/main/MTG%20Card%20Price))
-+ Gets card information using scrython
-+ Gets card price in USD using sf_price_fetcher
-+ A simple to use terminal based MTG card price lookup tool
-+ Plans: Still a work in progress I'm exciting to keep improving and refining it!
+### MTG Card Price - Volume 2 ([View Code](https://github.com/Adam-Mathew-Duke/Python-portfolio/blob/main/MTG%20Card%20Price))
++ Searches and gets MTG card information using scrython (API)
++ Gets MTG card price in USD using sf_price_fetcher (API)
++ GOAL: A simple to use terminal based MTG card price lookup tool that's easy to use
++ PLANS: Still a work in progress I'm exciting to keep improving and refining it!
 
 <img width="388" alt="image" src="https://github.com/user-attachments/assets/ecb2ac89-d556-447e-ac21-e6894230e4a6">
 
