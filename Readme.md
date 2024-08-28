@@ -1,10 +1,9 @@
 ## Portfolio
 
 ### Card Suits - Volume 2 ([View Code](https://github.com/Adam-Mathew-Duke/Python-portfolio/blob/main/Card%20Suits%20-%20Version%202))
-+ An Aphasia memory exercise using playing card suits
-+ Adds GUI support witih tkinter
-+ `#0969DA GOAL: aid in memory improvemnt, simple to use`
-+ PLANS: add better choice validation and feedback for the user
++ `DESCRIPTION` An Aphasia memory exercise using playing card suits with a tkinter GUI
++ `GOALS` aid in memory improvemnt, simple to use
++ `TO DO` add better choice validation and feedback for the user
 
 Function to display a new card (ASCII Symbol) on the screen:
 ```
