@@ -30,3 +30,9 @@ Image from the app showing the card suit and the solution:
 
 <img align="center" width="413" alt="image of card suites program" src="https://github.com/user-attachments/assets/e5b657f0-ec74-497d-9361-48ff5de3212e">
 
+### MTG Card Price - Version 2
++ Gets card information using scrython
++ Gets card price in USD using sf_price_fetcher
++ I am looking forward to refining this program further!
+
+
