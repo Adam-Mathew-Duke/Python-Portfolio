@@ -3,6 +3,7 @@
 ### Card Suits - Volume 2
 + An Aphasia memory exercise using playing card suits
 + Adds GUI support witih tkinter
++ Program goals: aid in memory improvemnt, simple to use
 
 Function to display a new card (ASCII Symbol) on the screen:
 ```
