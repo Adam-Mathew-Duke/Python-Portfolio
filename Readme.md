@@ -33,7 +33,7 @@ Image from the app showing the card suit and the solution:
 
 ### MTG Card Price - Volume 2 ([View Code](https://github.com/Adam-Mathew-Duke/Python-portfolio/blob/main/MTG%20Card%20Price))
 + `DESCRIPTION` Terminal based MTG card price lookup tool
-+ `GOALS` A simple way to lookup current MTG card prices and save them to a text file
++ `GOALS` A simple way to lookup current MTG card prices
 + `IMPROVEMENTS` Refine the code do further testing
 + `TAKEAWAY` My first program that calls an API
 
