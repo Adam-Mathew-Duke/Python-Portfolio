@@ -34,6 +34,6 @@ Image from the app showing the card suit and the solution:
 + Gets card information using scrython
 + Gets card price in USD using sf_price_fetcher
 + A simple to use terminal based MTG card price lookup tool
-+ + I am excited and looking forward to refining this program further in the future!
++ Plans: I am excited and looking forward to refining this program further in the future!
 
 
