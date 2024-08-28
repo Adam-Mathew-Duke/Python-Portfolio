@@ -1,4 +1,4 @@
-<img width="388" alt="image" src="https://github.com/user-attachments/assets/0207462c-92d7-4ff6-adb2-d0f61bbcd1d7">## Python Portfolio
+## Portfolio
 
 ### Card Suits - Volume 2 ([View Code](https://github.com/Adam-Mathew-Duke/Python-portfolio/blob/main/Card%20Suits%20-%20Version%202))
 + An Aphasia memory exercise using playing card suits
