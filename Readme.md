@@ -3,7 +3,7 @@
 ### Card Suits - Volume 2 ([View Code](https://github.com/Adam-Mathew-Duke/Python-portfolio/blob/main/Card%20Suits%20-%20Version%202))
 + An Aphasia memory exercise using playing card suits
 + Adds GUI support witih tkinter
-+ `#0969DA`GOAL: aid in memory improvemnt, simple to use
++ `#0969DA GOAL: aid in memory improvemnt, simple to use`
 + PLANS: add better choice validation and feedback for the user
 
 Function to display a new card (ASCII Symbol) on the screen:
