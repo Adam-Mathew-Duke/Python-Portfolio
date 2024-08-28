@@ -3,13 +3,7 @@
 ### Card Suits - Volume 2
 + An Aphasia memory exercise using playing card suits
 + Adds GUI support witih tkinter
-
-Lets look at the card_display() function and see what it does:
-+ Clear the answer text so it's hidden from the user - the name of the suit is a secret for now eg. Harts
-+ Set the answer text to a new random card suit. eg Harts
-+ Compare the answer text to the list of card suits. eg. "Harts" is a match to "♥"
-+ Once we know it's harts we set the card suit and choose the appropiate color in this case it's red.
-
++ Example function that displays a new random card suit on the screen
 ```
 def card_display():
 
@@ -29,5 +23,3 @@ def card_display():
 
 # end of code
 ```
-
-
