@@ -33,7 +33,7 @@ Image from the app showing the card suit and the solution:
 ### MTG Card Price ([View Code](https://github.com/Adam-Mathew-Duke/Python-portfolio/blob/main/MTG%20Card%20Price))
 + Gets card information using scrython
 + Gets card price in USD using sf_price_fetcher
-+ I am looking forward to refining this program further
-+ A simple to use terminal based MTG card price lookup
++ A simple to use terminal based MTG card price lookup tool
++ + I am excited and looking forward to refining this program further in the future!
 
 
