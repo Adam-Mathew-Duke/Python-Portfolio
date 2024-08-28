@@ -1,6 +1,6 @@
 ## Python Portfolio
 
-### Card Suits - Volume 2 [View Code](https://github.com/Adam-Mathew-Duke/Python-portfolio/blob/main/Card%20Suits%20-%20Version%202)
+### Card Suits - Volume 2 ([View Code])(https://github.com/Adam-Mathew-Duke/Python-portfolio/blob/main/Card%20Suits%20-%20Version%202)
 + An Aphasia memory exercise using playing card suits
 + Adds GUI support witih tkinter
 + Program goals: aid in memory improvemnt, simple to use
