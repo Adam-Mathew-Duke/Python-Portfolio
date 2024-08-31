@@ -1,6 +1,6 @@
 ## Portfolio
 
-### Card Suits - Volume 2 ([View Code](https://github.com/Adam-Mathew-Duke/Python-portfolio/blob/main/Card%20Suits%20-%20Version%202))
+### Card Suits - Volume 2 ([View Code](https://github.com/Adam-Mathew-Duke/Python-portfolio/blob/main/card_suits_v2.py))
 + `DESCRIPTION` An Aphasia memory exercise using card suits
 + `GOAL` Aid in memory improvement and confidence
 + `IMPROVEMENT` Add better choice validation and positive user feedback
@@ -10,7 +10,7 @@ Image from the app showing the card suit and the solution:
 
 <img align="center" width="413" alt="image of card suites program" src="https://github.com/user-attachments/assets/e5b657f0-ec74-497d-9361-48ff5de3212e">
 
-### MTG Card Price - Volume 2 ([View Code](https://github.com/Adam-Mathew-Duke/Python-portfolio/blob/main/MTG%20Card%20Price))
+### MTG Card Price - Volume 2 ([View Code](https://github.com/Adam-Mathew-Duke/Python-portfolio/blob/main/mtg_card_price.py))
 + `DESCRIPTION` Terminal based MTG card price lookup tool
 + `GOAL` A simple way to lookup current MTG card prices
 + `IMPROVEMENT` Refine the code do further testing
