@@ -29,4 +29,4 @@ Screenshot of the MTG Card Price program in action:
 Image from the web app showing a quote from Faruq:
 <img width="726" alt="image" src="https://github.com/user-attachments/assets/89ad27be-581c-42ac-8ec4-8ba91f43fe0d">
 
-
+View my app on the ([Web](https://python-portfolio-knmuaw5epbfb5xdktpzapu.streamlit.app/))
