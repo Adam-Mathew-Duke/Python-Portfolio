@@ -20,5 +20,13 @@ Screenshot of the MTG Card Price program in action:
 
 <img width="388" alt="image" src="https://github.com/user-attachments/assets/ecb2ac89-d556-447e-ac21-e6894230e4a6">
 
+### Faruq Quotes ([View Code]())
++ `DESCRIPTION` Faruq quotes from the show Battle Bots.
++ `GOAL` To make a fun fortune cookie app for my sister.
++ `IMPROVEMENT` Further development and presentation formatting based on user feedback and testing.
++ `TAKEAWAY` My first program using Streamlit to deply to the web.
+
+Image from the web app showing a quote from Faruq:
+<img width="726" alt="image" src="https://github.com/user-attachments/assets/89ad27be-581c-42ac-8ec4-8ba91f43fe0d">
 
 
