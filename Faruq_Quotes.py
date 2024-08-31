@@ -3,6 +3,7 @@ Name:           Faruq Quotes
 Version:        1
 Description:    Faruq battle bot quotes for Hannah
 Tips:           You can use co-pilot to generate a list of Faruq quotes
+App URL:        https://python-portfolio-knmuaw5epbfb5xdktpzapu.streamlit.app/
 '''
 
 import streamlit as st
