@@ -1,8 +1,7 @@
 '''
 Name:           Faruq Quotes
 Version:        1
-Description:    Faruq battle bot quotes for Hannah
-Tips:           You can use co-pilot to generate a list of Faruq quotes
+Description:    Faruq from Battle Bots fortune cookie style app
 App URL:        https://python-portfolio-knmuaw5epbfb5xdktpzapu.streamlit.app/
 '''
 
