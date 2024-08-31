@@ -5,6 +5,7 @@ Description:    Faruq battle bot quotes for Hannah
 Tips:           You can use co-pilot to generate a list of Faruq quotes
 '''
 
+import streamlit as st
 import random
 
 quotes_list = [
@@ -107,6 +108,4 @@ quotes_list = [
 ]
 
 random_quote = random.randint(0,len(quotes_list)-1)
-print("#" + str(random_quote+1) + ". " + quotes_list[random_quote])
-
-# end of code
+st.write("Faruq Quote #" + str(random_quote+1) + ". " + quotes_list[random_quote])
