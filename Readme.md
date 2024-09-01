@@ -23,7 +23,7 @@ Screenshot of the MTG Card Price program in action:
 ### Faruq Quotes ([View Code](https://github.com/Adam-Mathew-Duke/Python-portfolio/blob/main/Faruq_Quotes.py))
 + `DESCRIPTION` Faruq quotes from the show Battle Bots.
 + `GOAL` To make a themed fun fortune cookie type app.
-+ `IMPROVEMENT` Further development and presentation formatting based on user feedback and testing.
++ `IMPROVEMENT` Better quality quotes and maybe even a Faruq quote generator in version 2!
 + `TAKEAWAY` My first program using Python and Streamlit to deply to the web.
 
 Image from the web app showing a quote from Faruq:
