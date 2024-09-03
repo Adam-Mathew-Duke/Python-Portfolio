@@ -31,7 +31,7 @@ Image from the web app showing a quote from Faruq:
 
 View my app on the [web](https://python-portfolio-abcaylbn9rirvbcjz4hjas.streamlit.app/)
 
-### Center String ([View Code]())
+### Center String ([View Code](https://github.com/Adam-Mathew-Duke/Python-Portfolio/blob/main/center_string.py))
 + `DESCRIPTION` Center a string in the terminal window.
 + `GOAL` Practice finding the center of a string using floor division.
 + `IMPROVEMENT` A Tkinter version 2.
