@@ -2,7 +2,7 @@
 
 ### Card Suits - Volume 2 ([View Code](https://github.com/Adam-Mathew-Duke/Python-portfolio/blob/main/card_suits_v2.py))
 + `DESCRIPTION` An Aphasia memory exercise using card suits
-+ `GOAL` Aid in memory improvement and confidence
++ `GOAL` Aid in memory improvement and confidence 
 + `IMPROVEMENT` Add better choice validation and positive user feedback
 + `TAKEAWAY` My first program using Tkinter
 
