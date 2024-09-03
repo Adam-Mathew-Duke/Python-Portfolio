@@ -30,3 +30,12 @@ Image from the web app showing a quote from Faruq:
 <img width="726" alt="image" src="https://github.com/user-attachments/assets/89ad27be-581c-42ac-8ec4-8ba91f43fe0d">
 
 View my app on the [web](https://python-portfolio-abcaylbn9rirvbcjz4hjas.streamlit.app/)
+
+### Center String ([View Code]())
++ `DESCRIPTION` Center a string in the terminal window.
++ `GOAL` Practice finding the center of a string using floor division.
++ `IMPROVEMENT` A Tkinter version 2.
++ `TAKEAWAY` Learning how to get current number of terminal columns and rows.
+
+Image from the terminal program showing the centered text string:
+<img width="347" alt="image" src="https://github.com/user-attachments/assets/d06d67db-9a9c-48ec-a175-5cae03a85573">
