@@ -37,6 +37,6 @@ View my app on the [web](https://python-portfolio-abcaylbn9rirvbcjz4hjas.streaml
 + `IMPROVEMENT` A Tkinter version 2.
 + `TAKEAWAY` Learning how to get current number of terminal columns and rows.
 
-
 Image from the terminal program showing the centered text string:
+
 <img width="347" alt="image" src="https://github.com/user-attachments/assets/d06d67db-9a9c-48ec-a175-5cae03a85573">
