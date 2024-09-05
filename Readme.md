@@ -48,6 +48,6 @@ Image from the terminal program showing the centered text string:
 + `TAKEAWAY` Learning new string methods: strip() and replace()
 
 Image from the web app showing a clean currency string result:
-<img width="726" alt="image" src="https://github.com/user-attachments/assets/89ad27be-581c-42ac-8ec4-8ba91f43fe0d">
+<img width="563" alt="image" src="https://github.com/user-attachments/assets/51615435-56c9-412b-834e-e97c59baaa91">
 
-View my app on the [web]()
+View my app on the [web](https://python-portfolio-rce9cjpksbkxypb8syjtti.streamlit.app/)
