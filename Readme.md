@@ -41,7 +41,7 @@ Image from the terminal program showing the centered text string:
 
 <img width="347" alt="image" src="https://github.com/user-attachments/assets/d06d67db-9a9c-48ec-a175-5cae03a85573">
 
-### Clean Currency String ([View Code]())
+### Clean Currency String ([View Code](https://github.com/Adam-Mathew-Duke/Python-Portfolio/blob/main/clean_currency_string.py))
 + `DESCRIPTION` Clean a string of currency text.
 + `GOAL` A simple utility for accounting work.
 + `IMPROVEMENT` More currency text string cleaning options and settings.
