@@ -40,3 +40,14 @@ View my app on the [web](https://python-portfolio-abcaylbn9rirvbcjz4hjas.streaml
 Image from the terminal program showing the centered text string:
 
 <img width="347" alt="image" src="https://github.com/user-attachments/assets/d06d67db-9a9c-48ec-a175-5cae03a85573">
+
+### Faruq Quotes ([View Code](https://github.com/Adam-Mathew-Duke/Python-portfolio/blob/main/Faruq_Quotes.py))
++ `DESCRIPTION` Clean a string of currency text.
++ `GOAL` A simple utility for accounting work.
++ `IMPROVEMENT` More currency text string cleaning options and settings.
++ `TAKEAWAY` Learning new string methods: strip() and replace()
+
+Image from the web app showing a clean currency string result:
+<img width="726" alt="image" src="https://github.com/user-attachments/assets/89ad27be-581c-42ac-8ec4-8ba91f43fe0d">
+
+View my app on the [web]()
