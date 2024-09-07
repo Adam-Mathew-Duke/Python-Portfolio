@@ -25,11 +25,11 @@ for word in faruq_quotes_list[quote].split():
 
     # upper case words get a color background and larger font
     if word.isupper() and len(word) >= 2:
-        string += ' <font style=color:'+'white'+';background:'+background_colors[random.randint(0,len(background_colors)-1)]+';font-size:12px; line-height:180>'+word+'</font>'
+        string += ' <font style=color:'+'white'+';background:'+background_colors[random.randint(0,len(background_colors)-1)]+';font-size:12px; line-height:150>'+word+'</font>'
     
     # random words get a color background and a larger font
     elif rand >= 0 and rand <= 10 and len(word) >= 5:
-        string += ' <font style=color:white;background:'+background_colors[random.randint(0,len(background_colors)-1)]+';font-size:12px; line-height:180>'+word+'</font>'
+        string += ' <font style=color:white;background:'+background_colors[random.randint(0,len(background_colors)-1)]+';font-size:12px; line-height:150>'+word+'</font>'
     
     # other words are printed out as normal
     else:
