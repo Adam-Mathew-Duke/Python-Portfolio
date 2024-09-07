@@ -1,6 +1,6 @@
 '''
 Name:           faruq_quotes_v2.py
-Version:        2
+Version:        2 
 Description:    Faruq from Battle Bots fortune cookie style app
 '''
 
