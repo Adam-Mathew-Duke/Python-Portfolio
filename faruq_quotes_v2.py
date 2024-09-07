@@ -10,7 +10,7 @@ import random
 from faruq_quotes_data_v2 import faruq_quotes_list
 quote = random.randint(0,len(faruq_quotes_list)-1)
 
-#st.image("faruq_image.jpg",width=175)
+st.image("faruq_image.jpg",width=175)
 
 background_colors = [
 '#000000','#00008B','#006400','#8B0000','#2F4F4F',
@@ -25,15 +25,15 @@ for word in faruq_quotes_list[quote].split():
 
     # upper case words get a color background and larger font
     if word.isupper() and len(word) >= 2:
-        string += ' <font style=color:'+'white'+';background:'+background_colors[random.randint(0,len(background_colors)-1)]+';font-size:12px;>'+word+'</font>'
+        string += ' <font style=color:'+'white'+';background:'+background_colors[random.randint(0,len(background_colors)-1)]+';font-size:14px;line-height: normal;>'+word+'</font>'
     
     # random words get a color background and a larger font
     elif rand >= 0 and rand <= 10 and len(word) >= 5:
-        string += ' <font style=color:white;background:'+background_colors[random.randint(0,len(background_colors)-1)]+';font-size:12px;>'+word+'</font>'
+        string += ' <font style=color:white;background:'+background_colors[random.randint(0,len(background_colors)-1)]+';font-size:14px;line-height: normal;>'+word+'</font>'
     
     # other words are printed out as normal
     else:
-        string += ' <font style=display:inline;font-size:10px;>'+word+'</font>'
+        string += ' <font style=display:inline;font-size:12px;line-height: normal;>'+word+'</font>'
 
 st.html(string)
 st.button("New Faruq Quote")
