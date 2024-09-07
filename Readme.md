@@ -27,6 +27,7 @@ Screenshot of the MTG Card Price program in action:
 + `TAKEAWAY` Learning more about Python and Streamlit including st.html().
 
 Image from the web app showing a quote from Faruq:
+
 <img width="520" alt="image" src="https://github.com/user-attachments/assets/ea335fd9-ae21-4ba5-a38f-1062e9bd4b22">
 
 View my app on the [web](https://python-portfolio-ufl7cj8no2xqbq2h9utqug.streamlit.app/)
