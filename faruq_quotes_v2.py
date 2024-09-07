@@ -33,7 +33,7 @@ for word in faruq_quotes_list[quote].split():
     
     # other words are printed out as normal
     else:
-        string += ' <font style=display:inline;font-size:12px;line-height: normal;>'+word+'</font>'
+        string += ' <font style=font-size:12px;line-height: normal;>'+word+'</font>'
 
 st.html(string)
 st.button("New Faruq Quote")
