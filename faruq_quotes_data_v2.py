@@ -50,7 +50,7 @@ faruq_quotes_list = [
 "From Cambridge, Massachusetts, the only pacifier for this bot is murder. It's TANTRUM!",
 "Aren's new bot bit the dust but his squad's got the trump card. Ginger and Alex will make Jake's bot break and toss it right in the junkyard. Revenge is a dish best served for clenched fists and this team's ready to pound. They're not afraid of the son of the Son of Whyachi and tonight, the son goes down! It's TANTRUM!",
 "This crybaby will hit you so hard, you'll have to call the wham-bulance, it's TANTRUM!",
-"Play this game of death and you'll get popped in the chops. He throws hands like Bruce Lee] and his fists of fury don't stop. Jeet Kune Don't test him because he's earned his clout and when he enters the box, they'll be dragging you out. It's TANTRUM!",
+"Play this game of death and you'll get popped in the chops. He throws hands like Bruce Lee and his fists of fury don't stop. Jeet Kune Don't test him because he's earned his clout and when he enters the box, they'll be dragging you out. It's TANTRUM!",
 "This slap-happy bot got the smacks that brings pain. Don't call him G.I. Jane or he'll go G.T. insane. You'll get Chris Rocked in the jaw, your odds of winning are going south. So keep this bot's name out your mouth. It's TANTRUM!",
 "What's up? I hope you're ready to fight, son. This bot will come at you like he's Mike Tyson. So beware to hit the hammer, stay clear or suffer the fate of Holyfield's ear. It's TANTRUM!",
 "He'll throw a giant fit like Christian Bale did. Or when Tyra Banks yelled, 'Be quiet, Tiffany! We're all rooting for you.' It's TANTRUM!",
