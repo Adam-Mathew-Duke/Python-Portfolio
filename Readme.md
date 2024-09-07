@@ -20,16 +20,16 @@ Screenshot of the MTG Card Price program in action:
 
 <img width="388" alt="image" src="https://github.com/user-attachments/assets/ecb2ac89-d556-447e-ac21-e6894230e4a6">
 
-### Faruq Quotes ([View Code](https://github.com/Adam-Mathew-Duke/Python-portfolio/blob/main/Faruq_Quotes.py))
+### Faruq Quotes V2 ([View Code](https://github.com/Adam-Mathew-Duke/Python-portfolio/blob/main/Faruq_Quotes.py))
 + `DESCRIPTION` Faruq quotes from the show Battle Bots.
-+ `GOAL` To make a themed fun fortune cookie type app.
-+ `IMPROVEMENT` Better quality quotes and maybe even a Faruq quote generator in version 2!
-+ `TAKEAWAY` My first program using Python and Streamlit to deply to the web.
++ `GOAL` To make a battle bot themed fortune cookie type app.
++ `IMPROVEMENT` Better quality quotes real life quotes from Faruq.
++ `TAKEAWAY` Learning more about Python and Streamlit including st.html().
 
 Image from the web app showing a quote from Faruq:
-<img width="726" alt="image" src="https://github.com/user-attachments/assets/89ad27be-581c-42ac-8ec4-8ba91f43fe0d">
+<img width="520" alt="image" src="https://github.com/user-attachments/assets/ea335fd9-ae21-4ba5-a38f-1062e9bd4b22">
 
-View my app on the [web](https://python-portfolio-abcaylbn9rirvbcjz4hjas.streamlit.app/)
+View my app on the [web](https://python-portfolio-ufl7cj8no2xqbq2h9utqug.streamlit.app/)
 
 ### Center String ([View Code](https://github.com/Adam-Mathew-Duke/Python-Portfolio/blob/main/center_string.py))
 + `DESCRIPTION` Center a string in the terminal window.
