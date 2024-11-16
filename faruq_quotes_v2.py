@@ -1,7 +1,7 @@
 '''
-Name:           faruq_quotes_v2.py
-Version:        2 
-Description:    Faruq from Battle Bots fortune cookie style app
+Faruq Quotes
+To do:
+do an update without using any html
 '''
 
 import streamlit as st
@@ -34,6 +34,7 @@ for word in faruq_quotes_list[quote].split():
         string += ' <font style=font-size:20px;line-height: normal;>'+word+'</font>'
 
 st.html(string)
+st.write('')
 st.write('')
 st.button("New Faruq Quote")
 st.divider()
