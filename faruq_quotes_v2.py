@@ -33,6 +33,7 @@ for word in faruq_quotes_list[quote].split():
     else:
         string += ' <font style=font-size:20px;line-height: normal;>'+word+'</font>'
 
+st.header("Faruq Battle Bots Quotes")
 st.html(string)
 st.write('')
 st.write('')
