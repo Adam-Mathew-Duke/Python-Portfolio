@@ -39,6 +39,7 @@ st.html(string)
 st.button("New Faruq Quote")
 
 st.divider()
-st.page_link("https://buymeacoffee.com/adamd", label="Buy Me A Coffee!", icon="☕")
+st.page_link("https://battlebots.fandom.com/wiki/Faruq_Tauheed", label="Learn about the Faruq on the Battle Bots Wiki!", icon="🌐")
+st.page_link("https://buymeacoffee.com/adamd", label="Buy me a coffee!", icon="☕")
 
 # end of code
