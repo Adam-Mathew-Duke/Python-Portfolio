@@ -10,8 +10,6 @@ import random
 from faruq_quotes_data_v2 import faruq_quotes_list
 quote = random.randint(0,len(faruq_quotes_list)-1)
 
-st.image("faruq_image.jpg",width=100)
-
 background_colors = [
 '#000000','#00008B','#006400','#8B0000','#2F4F4F',
 '#556B2F','#8B008B','#008B8B','#FF8C00','#9400D3']
