@@ -34,6 +34,7 @@ for word in faruq_quotes_list[quote].split():
         string += ' <font style=font-size:20px;line-height: normal;>'+word+'</font>'
 
 st.html(string)
+st.write('')
 st.button("New Faruq Quote")
 st.divider()
 st.page_link("https://battlebots.fandom.com/wiki/Faruq_Tauheed", label="Learn about the Faruq on the Battle Bots Wiki!", icon="🌐")
