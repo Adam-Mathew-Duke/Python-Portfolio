@@ -38,4 +38,7 @@ for word in faruq_quotes_list[quote].split():
 st.html(string)
 st.button("New Faruq Quote")
 
+st.divider()
+st.page_link("https://buymeacoffee.com/adamd", label="Buy Me A Coffee!", icon="☕")
+
 # end of code
