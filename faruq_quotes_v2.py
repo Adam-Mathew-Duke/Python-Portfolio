@@ -1,7 +1,9 @@
 '''
 Faruq Quotes
+
 To do:
-do an update without using any html
+Re-write with no HTML
+Add a picture for each quote of the battlebots or Faruq
 '''
 
 import streamlit as st
@@ -33,7 +35,7 @@ for word in faruq_quotes_list[quote].split():
     else:
         string += ' <font style=font-size:20px;line-height: normal;>'+word+'</font>'
 
-st.header("Faruq Battle Bots Quotes")
+st.header("Faruq BattleBots Quotes")
 st.html(string)
 st.write('')
 st.write('')
