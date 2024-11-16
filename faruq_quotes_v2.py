@@ -1,8 +1,13 @@
 '''
+
 Faruq Quotes
 
 To do:
-Re-write with no HTML
++ Re-write with no HTML
++ Add an image for each quote
++ Tidy up the code
++ Add more quotes
+
 '''
 
 import streamlit as st
