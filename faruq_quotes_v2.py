@@ -10,7 +10,7 @@ import random
 from faruq_quotes_data_v2 import faruq_quotes_list
 quote = random.randint(0,len(faruq_quotes_list)-1)
 
-st.image("faruq_image.jpg",width=175)
+st.image("faruq_image.jpg",width=100)
 
 background_colors = [
 '#000000','#00008B','#006400','#8B0000','#2F4F4F',
@@ -37,7 +37,6 @@ for word in faruq_quotes_list[quote].split():
 
 st.html(string)
 st.button("New Faruq Quote")
-
 st.divider()
 st.page_link("https://battlebots.fandom.com/wiki/Faruq_Tauheed", label="Learn about the Faruq on the Battle Bots Wiki!", icon="🌐")
 st.page_link("https://buymeacoffee.com/adamd", label="Buy me a coffee!", icon="☕")
